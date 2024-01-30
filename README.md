@@ -14,5 +14,5 @@ To make the synchronization automatic put gitSyncAuto.js into your project folde
 ```html
 <script src="gitSyncAuto.js"></script>
 ```
-in every page that you don't immidietly get redirected from.
+in every page, that you don't immidietly get redirected from.
 - This is activated by pressing f5 not the reload button.
